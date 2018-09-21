@@ -1,11 +1,16 @@
 _repo: Fast-Day-Cookery-or-Meals-without-Meat_54039
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54039-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnson, Grace
     gutenberg_agent_id: '47672'
     url: http://www.gutenberg.org/2009/agents/47672
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54039#Fast-Day-Cookery-or-Meals-without-Meat
 gutenberg_issued: '2017-01-22'
 gutenberg_type: Text
 identifiers:
