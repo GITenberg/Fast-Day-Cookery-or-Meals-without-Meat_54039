@@ -1,0 +1,24 @@
+_repo: Fast-Day-Cookery-or-Meals-without-Meat_54039
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Grace
+    gutenberg_agent_id: '47672'
+    url: http://www.gutenberg.org/2009/agents/47672
+description: ''
+gutenberg_issued: '2017-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking (Fish)'
+- !lcsh 'Lenten menus'
+- !lcsh 'Vegetarian cooking'
+- !lcc 'TX'
+- GITenberg
+title: Fast-Day Cookery; or, Meals without Meat
+url: http://www.gutenberg.org/ebooks/54039
